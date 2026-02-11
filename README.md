@@ -84,7 +84,7 @@ La aplicación web fue desarrollada con **Streamlit** y cuenta con:
 
 ## 🛠️ Tecnologías Utilizadas
 
-* **Python 3.9+**
+* **Python**
 * **Pandas & NumPy**: Manipulación y limpieza de datos
 * **Scikit-learn**: Preprocesamiento y métricas de evaluación
 * **XGBoost**: Modelo principal de regresión
@@ -94,4 +94,3 @@ La aplicación web fue desarrollada con **Streamlit** y cuenta con:
 
 ---
 
-## 📁 Estructura del Repositorio
