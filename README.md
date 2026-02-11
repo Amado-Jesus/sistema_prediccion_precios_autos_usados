@@ -81,6 +81,17 @@ La aplicación web fue desarrollada con **Streamlit** y cuenta con:
 | **Compradores** | Verificar si un vehículo está sobrevalorado o subvalorado antes de comprar |
 
 ---
+## 🚀 Cómo Usar la Aplicación
+
+### Datos de Ejemplo Incluidos
+
+El repositorio incluye el archivo **`data/new_data.csv`** con datos de ejemplo listos para usar. Este archivo contiene registros de vehículos representativos que puedes cargar directamente en la aplicación para probar el modelo sin necesidad de preparar tu propio dataset.
+
+| Archivo | Descripción | Uso |
+|---------|-------------|-----|
+| `data/new_data.csv` | Dataset de ejemplo con variables requeridas | Prueba inicial de la aplicación y validación de formato |
+
+
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -89,7 +100,7 @@ La aplicación web fue desarrollada con **Streamlit** y cuenta con:
 * **Scikit-learn**: Preprocesamiento y métricas de evaluación
 * **XGBoost**: Modelo principal de regresión
 * **PyTorch**: Desarrollo de red neuronal comparativa
-* **Streamlit**: Despliegue de aplicación web interactiva
+* **Streamlit**: Despliegue de **aplicación** [https://sistemaprediccionpreciosautosusadosapp-8d5px7b6iucdskkztehxjc.streamlit.app/] web interactiva
 * **Joblib/Pickle**: Serialización del modelo
 
 ---
