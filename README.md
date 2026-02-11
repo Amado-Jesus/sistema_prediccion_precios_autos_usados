@@ -100,7 +100,7 @@ El repositorio incluye el archivo **`data/new_data.csv`** con datos de ejemplo l
 * **Scikit-learn**: Preprocesamiento y métricas de evaluación
 * **XGBoost**: Modelo principal de regresión
 * **PyTorch**: Desarrollo de red neuronal comparativa
-* **Streamlit**: Despliegue de **aplicación** [https://sistemaprediccionpreciosautosusadosapp-8d5px7b6iucdskkztehxjc.streamlit.app/] web interactiva
+* **Streamlit**: Despliegue de [**aplicación**](https://sistemaprediccionpreciosautosusadosapp-8d5px7b6iucdskkztehxjc.streamlit.app/)  interactiva
 * **Joblib/Pickle**: Serialización del modelo
 
 ---
