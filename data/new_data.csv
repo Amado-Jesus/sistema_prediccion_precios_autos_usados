@@ -1,0 +1,11 @@
+year,manufacturer,condition,cylinders,fuel,odometer,title_status,transmission,drive,type,paint_color
+2020,honda,excellent,4_or_less,gas,42000,clean,automatic,fwd,sedan,white
+2015,chevrolet,good,8_or_more,gas,98000,clean,automatic,rwd,pickup,red
+2017,nissan,good,4_or_less,gas,76000,clean,automatic,fwd,SUV,gray
+2013,dodge,fair,8_or_more,gas,150000,rebuilt,automatic,rwd,coupe,black
+2021,tesla,excellent,unknown,electric,30000,clean,automatic,rwd,sedan,white
+2012,hyundai,good,4_or_less,gas,130000,clean,manual,fwd,sedan,blue
+2019,subaru,excellent,5_6_cyl,gas,61000,clean,automatic,awd,SUV,green
+2016,gmc,good,8_or_more,diesel,110000,clean,automatic,4wd,pickup,silver
+2018,kia,excellent,4_or_less,gas,50000,clean,automatic,fwd,hatchback,red
+2011,mazda,fair,4_or_less,gas,170000,salvage,manual,fwd,sedan,gray
